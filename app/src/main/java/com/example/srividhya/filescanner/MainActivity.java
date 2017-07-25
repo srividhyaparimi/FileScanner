@@ -164,7 +164,7 @@ public class MainActivity extends AppCompatActivity{
         stopScan();
         finish();
     }
-
+// on
     @Override
     protected void onDestroy() {
         super.onDestroy();

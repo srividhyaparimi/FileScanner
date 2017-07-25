@@ -47,6 +47,7 @@ public class Handler {
         initialize(id,message,context);
     }
     public void remove(int id){
+
         notifications.remove(id);
     }
 
